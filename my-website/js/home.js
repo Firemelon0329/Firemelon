@@ -1,5 +1,5 @@
 const API_KEY = '14fc8b63d6d03dce56f66418ec4a287d';
-    const BASE_URL = 'https://api.themoviedb.org/3';
+    const BASE_URL = 'https://firemelon2.pages.dev/';
     const IMG_URL = 'https://image.tmdb.org/t/p/original';
     let currentItem;
 
